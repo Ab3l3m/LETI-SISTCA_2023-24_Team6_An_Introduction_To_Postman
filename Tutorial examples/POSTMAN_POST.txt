@@ -1,0 +1,21 @@
+POSTMAN:
+Create Plan:
+Create a new POST request with this body and url:
+http://localhost:8080/api/plans
+
+{
+     "planName": "red",
+     "numberOfMinutes": "55000",
+     "planDescription": "bom",
+     "maxUsers": 3,
+     "musicCollections": 2,
+     "musicSuggestions": "automatic",
+     "monthlyFee": 3.99, 
+     "annualFee": 50.99,
+     "isActive": true,
+     "isPromoted": false,
+     "isArchived": false
+}
+
+
+choose any values you want for each attribute

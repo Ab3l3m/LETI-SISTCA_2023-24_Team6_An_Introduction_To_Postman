@@ -1,4 +1,0 @@
-POSTMAN:
-Get All Products:
-Create a new GET request with this url:
-http://localhost:8080/api/products
