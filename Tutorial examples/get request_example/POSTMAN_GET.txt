@@ -1,0 +1,4 @@
+POSTMAN:
+Get All Plans:
+Create a new GET request with this url:
+http://localhost:8080/api/plans
